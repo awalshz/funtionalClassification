@@ -1,0 +1,8 @@
+objsets.Main
+TweetSet.Main
+import TweetSet._
+run
+test
+submit awalshz@gmail.com kzBQEyRYHcuDCK1P
+submit awalshz@gmail.com 1kMvkCzenADPaujB
+^Z
